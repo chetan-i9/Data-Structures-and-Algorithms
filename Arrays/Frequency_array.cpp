@@ -46,3 +46,4 @@ int main()
 
     return 0;
 }
+// Time Complexity of this solution is O(n), where n is number of elements in array.
